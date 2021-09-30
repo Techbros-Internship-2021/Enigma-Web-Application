@@ -9,7 +9,7 @@ The home page shows the basic explanation about sentiment analysis.
 ![image](https://user-images.githubusercontent.com/75067485/135385099-33bacbf5-1884-4957-bba9-5f952db64f59.png)
 
 
-## Data pafe
+## Data page
 The data page shows the dataset used for the web-app. It only shows the first 100 data from the dataset.
 ![image](https://user-images.githubusercontent.com/75067485/135385179-a25caa22-a2ac-4841-ade1-3f183c4826c0.png)
 
@@ -30,7 +30,11 @@ The maps page shows the number of tweets and the location of the tweets when its
 ![image](https://user-images.githubusercontent.com/75067485/135385697-7a34d671-b7dc-4d8a-9d08-3d9afe45f5ad.png)
 ![image](https://user-images.githubusercontent.com/75067485/135385731-a379e304-88ad-4cb4-aefa-4caf5dd36356.png)
 
-## Individual Data
+## Individual Data page
+Just like its name, individual data page shows the visualization for each airlines. We can choose which airline sentiment to show by the dropdown menu under the 'Airline'. We can also close the previously chosen airline by clickin the 'X' button beside each name.
+![image](https://user-images.githubusercontent.com/75067485/135386149-df4fbd2b-37a4-4050-adf7-c0c252aaf05a.png)
+![image](https://user-images.githubusercontent.com/75067485/135386184-1e71781b-239d-45bc-b833-dad26bc8c93b.png)
+
 
 
 
