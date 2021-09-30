@@ -1,3 +1,5 @@
 # Web Application Description
-The web-app is made using Streamlit. Type 'steamlit run analysis.py' to run the web-app.
-This web-app shows the dataset and the visualization of the data.
+The web-app is made using Streamlit. Type 'steamlit run analysis.py' to run the web-app. The main function of the web-app:
+
+1. Show the data from the dataset.
+2. Visualize the data of sentiment analysis.
